@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='Two Sum'/>
+        <page name='SinglyLinkedList'/>
+        <page name='DoublyLinkedList'/>
+        <page name='StackUsingLinkedList'/>
+        <page name='Queue'/>
+        <page name='Factory Design Pattern'/>
+        <page name='PropertyWrapper'/>
+        <page name='Palindrome Number'/>
+        <page name='longest  substring  '/>
+        <page name='SlidingWindow+ SumOfSubarray '/>
+        <page name='StockPriceProblem'/>
+        <page name='BracketBlancing'/>
+        <page name='LongestValidParentheses'/>
+        <page name='InfixToPostfixConverter'/>
+    </pages>
+</playground>
